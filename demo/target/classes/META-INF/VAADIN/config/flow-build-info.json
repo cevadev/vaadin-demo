@@ -1,0 +1,17 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\Test\\local-projects\\IntellijProjects\\vaadin\\demo",
+  "node.version": "v20.10.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "C:\\Users\\Test\\local-projects\\IntellijProjects\\vaadin\\demo\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\Test\\local-projects\\IntellijProjects\\vaadin\\demo\\src\\main\\java",
+  "javaResourceFolder": "C:\\Users\\Test\\local-projects\\IntellijProjects\\vaadin\\demo\\src\\main\\resources",
+  "connect.applicationProperties": "C:\\Users\\Test\\local-projects\\IntellijProjects\\vaadin\\demo\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\Test\\local-projects\\IntellijProjects\\vaadin\\demo\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "C:\\Users\\Test\\local-projects\\IntellijProjects\\vaadin\\demo\\frontend\\generated",
+  "pnpm.enable": false,
+  "bun.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}

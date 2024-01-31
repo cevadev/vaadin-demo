@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/Test/local-projects/IntellijProjects/vaadin/demo/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/Test/local-projects/IntellijProjects/vaadin/demo/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/Test/local-projects/IntellijProjects/vaadin/demo/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\Test\\local-projects\\IntellijProjects\\vaadin\\demo\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\Test\\local-projects\\IntellijProjects\\vaadin\\demo\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/Test/local-projects/IntellijProjects/vaadin/demo/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/Test/local-projects/IntellijProjects/vaadin/demo/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/Test/local-projects/IntellijProjects/vaadin/demo/frontend/generated/jar-resources",
+  "themeName": "my-theme",
+  "clientServiceWorkerSource": "C:\\Users\\Test\\local-projects\\IntellijProjects\\vaadin\\demo\\target\\sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}
