@@ -1,3 +1,7 @@
+org\vaadin\chapter2\VerticalLayoutView.class
+org\vaadin\chapter2\CompositionViewV3.class
+org\vaadin\chapter2\CompositionView.class
 org\vaadin\example\GreetService.class
 org\vaadin\example\MainView.class
 org\vaadin\example\AppShell.class
+org\vaadin\chapter2\CompositionViewV2.class
